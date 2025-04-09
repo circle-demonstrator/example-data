@@ -1,17 +1,12 @@
 {
-    "schemaVersion": 1,
     "environmentalMaterials": [
         {
             "name": "CW004A - EN 12499 - Cu-DHP",
-            "description": "",
-            "id": "0d4acbdc-5de2-41f7-b380-a47b23d9bb07",
-            "version": 2,
             "tags": [
                 "Heavy metals, cast and wrought alloys",
                 "Copper alloys"
             ],
             "subType": "Nominal",
-            "updateDate": "2023-10-05T00:00:00",
             "environmentalProperties": [
                 {
                     "name": "Climate change (total) CO2 eq.",
@@ -77,15 +72,11 @@
         },
         {
             "name": "CW004A - EN 12499 - Cu-DHP",
-            "description": "",
-            "id": "a5a8010d-07ae-46e7-855d-73314adb707c",
-            "version": 2,
             "tags": [
                 "Heavy metals, cast and wrought alloys",
                 "Copper alloys"
             ],
             "subType": "Renewable",
-            "updateDate": "2023-10-05T00:00:00",
             "environmentalProperties": [
                 {
                     "name": "Climate change (total) CO2 eq.",
@@ -151,15 +142,11 @@
         },
         {
             "name": "CW004A - EN 12499 - Cu-DHP",
-            "description": "",
-            "id": "899a30f2-b47b-4c35-94bf-777904851bde",
-            "version": 2,
             "tags": [
                 "Heavy metals, cast and wrought alloys",
                 "Copper alloys"
             ],
             "subType": "Recycled",
-            "updateDate": "2023-10-05T00:00:00",
             "environmentalProperties": [
                 {
                     "name": "Climate change (total) CO2 eq.",
