@@ -1,0 +1,227 @@
+{
+    "schemaVersion": 1,
+    "environmentalMaterials": [
+        {
+            "name": "CW004A - EN 12499 - Cu-DHP",
+            "description": "",
+            "id": "0d4acbdc-5de2-41f7-b380-a47b23d9bb07",
+            "version": 2,
+            "tags": [
+                "Heavy metals, cast and wrought alloys",
+                "Copper alloys"
+            ],
+            "subType": "Nominal",
+            "updateDate": "2023-10-05T00:00:00",
+            "environmentalProperties": [
+                {
+                    "name": "Climate change (total) CO2 eq.",
+                    "values": [
+                        {
+                            "value": 6.69494780771524,
+                            "unit": "kg CO2-eq",
+                            "description": "Indicator of potential global warming due to emissions of greenhouse gases to air (GWP100). Unit (kg CO2-eq)",
+                            "standard": "EN15804",
+                            "updateDate": "2023-10-05T00:00:00"
+                        }
+                    ]
+                },
+                {
+                    "name": "Freshwater Eutrophication",
+                    "values": [
+                        {
+                            "value": 0.118889434000817,
+                            "unit": "kg PO4-eq",
+                            "description": "Enrichment of water with nutrients, such as nitrogen and phosphorus, leading to excessive plant and algae growth.",
+                            "standard": "EN15804",
+                            "updateDate": "2023-10-05T00:00:00"
+                        }
+                    ]
+                },
+                {
+                    "name": "Total non-renewable primary energy use",
+                    "values": [
+                        {
+                            "value": 91.0803381054286,
+                            "unit": "MJ",
+                            "description": "Total energy required to produce the Raw Material. Unit (MJ)",
+                            "standard": "EN15804",
+                            "updateDate": "2023-10-05T00:00:00"
+                        }
+                    ]
+                },
+                {
+                    "name": "Fresh water consumptions",
+                    "values": [
+                        {
+                            "value": 3.22406347654214,
+                            "unit": "m3",
+                            "description": "User deprivation potential (deprivation-weighted water consumption)",
+                            "standard": "EN15804",
+                            "updateDate": "2023-10-05T00:00:00"
+                        }
+                    ]
+                },
+                {
+                    "name": "Human toxicity, cancer, non-cancer",
+                    "values": [
+                        {
+                            "value": 3.66511551087223E-07,
+                            "unit": "CTUh",
+                            "description": "Impact on humans of toxic substances emitted to the environment. Combination of non-cancer and cancer related toxic substances.",
+                            "standard": "EN15804",
+                            "updateDate": "2023-10-05T00:00:00"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "CW004A - EN 12499 - Cu-DHP",
+            "description": "",
+            "id": "a5a8010d-07ae-46e7-855d-73314adb707c",
+            "version": 2,
+            "tags": [
+                "Heavy metals, cast and wrought alloys",
+                "Copper alloys"
+            ],
+            "subType": "Renewable",
+            "updateDate": "2023-10-05T00:00:00",
+            "environmentalProperties": [
+                {
+                    "name": "Climate change (total) CO2 eq.",
+                    "values": [
+                        {
+                            "value": 3.89289742948053,
+                            "unit": "kg CO2-eq",
+                            "description": "Indicator of potential global warming due to emissions of greenhouse gases to air (GWP100). Unit (kg CO2-eq)",
+                            "standard": "EN15804",
+                            "updateDate": "2023-10-05T00:00:00"
+                        }
+                    ]
+                },
+                {
+                    "name": "Freshwater Eutrophication",
+                    "values": [
+                        {
+                            "value": 0.116265447378719,
+                            "unit": "kg PO4-eq",
+                            "description": "Enrichment of water with nutrients, such as nitrogen and phosphorus, leading to excessive plant and algae growth.",
+                            "standard": "EN15804",
+                            "updateDate": "2023-10-05T00:00:00"
+                        }
+                    ]
+                },
+                {
+                    "name": "Total non-renewable primary energy use",
+                    "values": [
+                        {
+                            "value": 22.1045851139591,
+                            "unit": "MJ",
+                            "description": "Total energy required to produce the Raw Material. Unit (MJ)",
+                            "standard": "EN15804",
+                            "updateDate": "2023-10-05T00:00:00"
+                        }
+                    ]
+                },
+                {
+                    "name": "Fresh water consumptions",
+                    "values": [
+                        {
+                            "value": 2.84482791504888,
+                            "unit": "m3",
+                            "description": "User deprivation potential (deprivation-weighted water consumption)",
+                            "standard": "EN15804",
+                            "updateDate": "2023-10-05T00:00:00"
+                        }
+                    ]
+                },
+                {
+                    "name": "Human toxicity, cancer, non-cancer",
+                    "values": [
+                        {
+                            "value": 3.58155198752316E-07,
+                            "unit": "CTUh",
+                            "description": "Impact on humans of toxic substances emitted to the environment. Combination of non-cancer and cancer related toxic substances.",
+                            "standard": "EN15804",
+                            "updateDate": "2023-10-05T00:00:00"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "CW004A - EN 12499 - Cu-DHP",
+            "description": "",
+            "id": "899a30f2-b47b-4c35-94bf-777904851bde",
+            "version": 2,
+            "tags": [
+                "Heavy metals, cast and wrought alloys",
+                "Copper alloys"
+            ],
+            "subType": "Recycled",
+            "updateDate": "2023-10-05T00:00:00",
+            "environmentalProperties": [
+                {
+                    "name": "Climate change (total) CO2 eq.",
+                    "values": [
+                        {
+                            "value": 0.31847386881127,
+                            "unit": "kg CO2-eq",
+                            "description": "Indicator of potential global warming due to emissions of greenhouse gases to air (GWP100). Unit (kg CO2-eq)",
+                            "standard": "EN15804",
+                            "updateDate": "2023-10-05T00:00:00"
+                        }
+                    ]
+                },
+                {
+                    "name": "Freshwater Eutrophication",
+                    "values": [
+                        {
+                            "value": 3.12987982293408E-05,
+                            "unit": "kg PO4-eq",
+                            "description": "Enrichment of water with nutrients, such as nitrogen and phosphorus, leading to excessive plant and algae growth.",
+                            "standard": "EN15804",
+                            "updateDate": "2023-10-05T00:00:00"
+                        }
+                    ]
+                },
+                {
+                    "name": "Total non-renewable primary energy use",
+                    "values": [
+                        {
+                            "value": 2.30558722937898,
+                            "unit": "MJ",
+                            "description": "Total energy required to produce the Raw Material. Unit (MJ)",
+                            "standard": "EN15804",
+                            "updateDate": "2023-10-05T00:00:00"
+                        }
+                    ]
+                },
+                {
+                    "name": "Fresh water consumptions",
+                    "values": [
+                        {
+                            "value": 3.11624584426227E-02,
+                            "unit": "m3",
+                            "description": "User deprivation potential (deprivation-weighted water consumption)",
+                            "standard": "EN15804",
+                            "updateDate": "2023-10-05T00:00:00"
+                        }
+                    ]
+                },
+                {
+                    "name": "Human toxicity, cancer, non-cancer",
+                    "values": [
+                        {
+                            "value": 5.33621243821501E-07,
+                            "unit": "CTUh",
+                            "description": "Impact on humans of toxic substances emitted to the environment. Combination of non-cancer and cancer related toxic substances.",
+                            "standard": "EN15804",
+                            "updateDate": "2023-10-05T00:00:00"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
