@@ -1,0 +1,12 @@
+{
+	"schemaVersion": 1,
+	"mappings": [
+        {
+            "nxMaterial": "CW004A - EN 12499 - Cu-DHP",
+            "environmentalMaterial": {
+                "name": "CW004A - EN 12499 - Cu-DHP",
+                "subType": "Nominal"
+            }
+        }
+    ]
+}
