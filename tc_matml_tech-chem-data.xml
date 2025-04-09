@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MatML_Doc>
+    <!--Material Data-->
+    <Material>
+        <BulkDetails>
+            <Name>Cu-DHP</Name>
+            <PropertyData property="Material Type">
+                <Data format="string">IsotropicMaterial</Data>
+            </PropertyData>
+            <PropertyData property="Version">
+                <Data format="string">1.0</Data>
+            </PropertyData>
+            <PropertyData property="MassDensityConstant">
+                <Data format="exponential">8.900000e+00</Data>
+            </PropertyData>
+            <SubstanceData property="P">
+                <Data format="exponential"> 2,750000E-02</Data>
+            </SubstanceData>
+            <SubstanceData property="Cu ">
+                <Data format="exponential"> 9,997250E+01</Data>
+            </SubstanceData>
+        </BulkDetails>
+    </Material>
+    <!--Material Metadata Description-->
+    <Metadata>
+        <!--Property Metadata Description-->
+        <PropertyDetails id="MassDensityConstant">
+            <Name>MassDensityConstant</Name>
+            <Units description="kilograms per decimeter cubed" name="kg/dm^3">
+                <Unit>
+                    <Name>kg/dm^3</Name>
+                </Unit>
+            </Units>
+        </PropertyDetails>
+        <!--Substance Metadata Description-->
+        <SubstanceDetails id="Cu ">
+            <Name>Cu </Name>
+            <CasNumber>7440-50-8</CasNumber>
+            <Units description="percent" name="%">
+                <Unit>
+                    <Name>%</Name>
+                </Unit>
+            </Units>
+        </SubstanceDetails>
+        <SubstanceDetails id="P">
+            <Name>P</Name>
+            <CasNumber>7723-14-0</CasNumber>
+            <Units description="percent" name="%">
+                <Unit>
+                     <Name>%</Name>
+                </Unit>
+            </Units>
+        </SubstanceDetails>
+    </Metadata>
+</MatML_Doc>
