@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Import tested into Teamcenter Integrated Materials Management, Status: SUCCESSFUL-->
+<MatML_Doc>
+    <!--Material Data-->
+    <Material>
+        <BulkDetails>
+            <Name>Cu-DHP</Name>
+            <PropertyData property="Material Type">
+                <Data format="string">IsotropicMaterial</Data>
+            </PropertyData>
+            <PropertyData property="Version">
+                <Data format="string">1.0</Data>
+            </PropertyData>
+            <PropertyData property="MassDensityConstant">
+                <Data format="exponential">8.900000e+00</Data>
+            </PropertyData>
+        </BulkDetails>
+    </Material>
+    <!--Material Metadata Description-->
+    <Metadata>
+        <PropertyDetails id="MassDensityConstant">
+            <Name>MassDensityConstant</Name>
+            <Units description="kilograms per decimeter cubed" name="kg/dm^3">
+                <Unit>
+                    <Name>kg/dm^3</Name>
+                </Unit>
+            </Units>
+        </PropertyDetails>
+    </Metadata>
+</MatML_Doc>
