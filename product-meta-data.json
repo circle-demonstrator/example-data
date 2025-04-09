@@ -1,0 +1,31 @@
+{
+    "product": [
+        {
+        "CommercialData": {
+            "ItemNumber": 2100091,
+            "ProductKey": "BH341S",
+            "ProductDesignation": "AI-GB 1-8 R-D",
+            "ProductName": "Covered ferrules",
+            "GTIN": 4067923124606,
+            "CustomsTariffNumber": 85369010,
+            "CountryOfOrigin": "DE",
+            "Supplier": "Phoenix Contact"
+        },
+        "Classification": {
+            "Eclass130": 27400201,
+            "Etim90": "EC000005"
+        },
+        "MaterialSpecification": {
+            "Color": "Red (RAL 3001)",
+            "Material": "CU-DHP",
+            "FlammabilityRatingUL94": "HB",
+            "Coating": "Galvanically tin plated",
+            "Components": "Free from silicone and halogene"
+        },
+        "ProductProperties": {
+            "ProductType": "Cable and sleeve",
+            "ProductProperty": "Plastic collar made of polypropylene"
+        }
+        }
+    ]
+}
